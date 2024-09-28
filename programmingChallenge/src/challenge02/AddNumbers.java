@@ -2,7 +2,7 @@ package challenge02;
 
 import java.util.Scanner;
 
-public class addNumbers {
+public class AddNumbers {
     public static void main(String[] args) {
         System.out.println("Hello there!!");
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package challenge02;
 
 import java.util.Scanner;
 
-public class userInput {
+public class UserInput {
     public static void main(String[] args) {
         System.out.println("Hello there!!");
         System.out.print("Please enter your name: ");
