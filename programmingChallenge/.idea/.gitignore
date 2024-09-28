@@ -6,9 +6,10 @@
 /misc.xml
 /codeStyles
 /Project.xml
-.programmingChallenge.iml
+/programmingChallenge.iml
+/.gitignore
 ### IntelliJ IDEA ###
-out/
+out/production
 !**/src/main/**/out/
 !**/src/test/**/out/
 
